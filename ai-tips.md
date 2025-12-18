@@ -1,4 +1,4 @@
-###I.**Advice for effective AI collaboration**
+### I.**Advice for effective AI collaboration**
 
 People interact with AI more effectively when the model understands how they think.  
 Different people reason best through different representations (e.g., narrative,  
