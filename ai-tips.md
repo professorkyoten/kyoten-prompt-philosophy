@@ -1,4 +1,4 @@
-### I.**Advice for effective AI collaboration**
+### I. **Advice for effective AI collaboration**
 
 People interact with AI more effectively when the model understands how they think.  
 Different people reason best through different representations (e.g., narrative,  
@@ -28,7 +28,7 @@ This works for everyone—not just cognitively diverse users—because learning 
 and reasoning preferences vary across all people.
 
 
-II. ### **Prompt quality tip**
+### II. **Force Introspection to improve reliability**
 
 A simple way to improve AI responses is to force a brief coherence check before  
 execution. This prevents silent misinterpretation and improves accuracy.
@@ -51,7 +51,7 @@ These checks prompt the model to:
 
 This small addition often has an outsized impact on response quality.
 
-III. ### **Require structured self-verification from LLM to improve reliability**
+### III. **Require structured self-verification from LLM to improve reliability**
 
 LLMs are significantly more reliable when they are required to express their work  
 in a structured format that explicitly maps changes to verification artifacts.  
