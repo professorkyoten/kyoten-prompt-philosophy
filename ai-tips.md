@@ -1,5 +1,4 @@
-  
-**Advice for effective AI collaboration**
+### **Advice for effective AI collaboration**
 
 People interact with AI more effectively when the model understands how they think.  
 Different people reason best through different representations (e.g., narrative,  
@@ -28,7 +27,8 @@ Result:
 This works for everyone—not just cognitively diverse users—because learning styles  
 and reasoning preferences vary across all people.
 
-**Prompt quality tip:**
+
+### **Prompt quality tip**
 
 A simple way to improve AI responses is to force a brief coherence check before  
 execution. This prevents silent misinterpretation and improves accuracy.
@@ -96,6 +96,7 @@ Example table format:
 
 If any affected element does not have a corresponding test, the LLM should call  
 this out explicitly.
+
 
 ### **Refactoring vs Rebuilding in AI-Augmented Development**
 
